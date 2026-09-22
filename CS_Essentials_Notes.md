@@ -20,27 +20,27 @@
 
 * kilobits = 1,000 bits
 * kilobytes = 1,000 bytes (8,000 bits)
-<em>kilo = thousand</em>
+kilo = thousand
 
 * megabits = 1,000,000 bits (1 million)
 * megabyte = 1,000,000 bytes (1 million) (8 million bits)
-<em>mega = million </em>
+mega = million
 
 * gigabits = (1 billion) 1,000,000,000 bits
 * gigabyte = (1 billion) bytes (8 billion bits)
-<em>giga = billion</em>
+giga = billion
 
 * terabits = 1 trillion bits (1,000,000,000,000)
 * terabyte = 1 trillion bytes or 8 trillion bits
-<em>tera = trillion</em>
+tera = trillion
 
 * exobits = 1 quadrillion bits (1,000,000,000,000,000)
 * exobytes = 1 quadrillion bytes or 8 quadrillion bits
-<em>exo = quadrillion</em>
+exo = quadrillion
 
 * zettabits = 10^21 bits (1,000,000,000,000,000,000,000)
 * zettabyte = 10^21 bytes or 8 x 10^21 bits
-<em>zetta = quintillion or 10^21</em>
+zetta = quintillion or 10^21
 
 
 
