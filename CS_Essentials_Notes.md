@@ -50,4 +50,24 @@ zetta = quintillion or 10^21
 
 
 
+#Data Types
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
