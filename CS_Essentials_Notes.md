@@ -50,9 +50,18 @@ zetta = quintillion or 10^21
 
 
 
-#Data Types
-
-
+# Data Types
+| Title | Name | Size | Range | What it is used for |
+|:---|:---:|:---:|:---:|:---:|
+| bool | boolean | 1 bit | 0-1 | Yes or no, true or false data |
+| char | character | 8 bits (1 byte) | A-Z, a-z, all keyboard keys | one letter or a numeral used as a letter |
+| short | short integer | 16 bits | -32,768 to 32,768 | small whole numbers |
+| int | integer | 32 bits | -2,147,483,648 to 2,147,483,647 | normal sized whole numbers |
+| unsigned int | unsigned integer | 32 bits | 0 to 4,294,967,295 | larger total number but no negatives |
+| long long | long integer | 64 bits | -9,223,372,036,854,775,808 to 9,223,372,036,854,775,807 | much larger whole number range |
+| flt | float | 32 bits | 	3.4E +/- 38 (seven digits) | decimal numbers |
+| dbl | double | 64 bits | 1.7E +/- 308 (fifteen digits) | much larger and more precise decimal numbers |
+| str | string | minimum of 32 bits + 8 bits per character | all letters and numbers | memory allocation is dynamic based on the length of the string |
 
 
 
